@@ -1,0 +1,5 @@
+// GENERATED FILE - DO NOT EDIT
+include ":"
+include ":CordovaLib"
+include ":android.support.v7.appcompat:appcompat"
+project(":android.support.v7.appcompat:appcompat").projectDir = new File("android.support.v7.appcompat/workshop-appcompat")
